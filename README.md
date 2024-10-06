@@ -72,6 +72,7 @@ Whether you’re an entrepreneur with a vision or an established brand looking t
 ## 📸 Application Preview
 
 Here’s a sneak peek of what your customized Dating App will look like:
+
 <img src="/Images/Preview3.png">
 
 ---
