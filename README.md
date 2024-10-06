@@ -69,18 +69,16 @@ Our commitment to your success doesn’t conclude with the launch of your dating
 
 Whether you’re an entrepreneur with a vision or an established brand looking to innovate, our dating app development services provide the canvas for your unique love story. Join us in reshaping the future of love, one digital connection at a time. Let’s embark on this exciting journey together – contact us today, and let the magic of dating app development unfold for your brand!
 
-### 📞 **Contact Us Today!**
-- **Email**: [contact@vgoshinfo.com](mailto:contact@vgoshinfo.com)
-- **Phone**: +1 (954)-804-4785
-
----
-
 ## 📸 Application Preview
 
 Here’s a sneak peek of what your customized Dating App will look like:
 <img src="/Images/Preview3.png">
 
+---
 
+### 📞 **Contact Us Today!**
+- **Email**: [contact@vgoshinfo.com](mailto:contact@vgoshinfo.com)
+- **Phone**: +1 (954)-804-4785
 
 ---
 
